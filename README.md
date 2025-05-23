@@ -1,7 +1,7 @@
 # Suda645Paper
 ## Datasets, Benchmarks & Surveys
 
-- *(NAACL'21)* Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [📄 paper](https://arxiv.org/abs/2106.03872) [💻 code](https://github.com/example/project)
+- *(NAACL'21)* Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [paper](https://arxiv.org/abs/2106.03872) [code](https://github.com/example/project)
 
 - *(NeurIPS'23)* Can Language Models Solve Graph Problems in Natural Language? [📄 paper](https://arxiv.org/abs/2306.12345) [💻 code](https://github.com/example/project) ![GitHub Stars](https://img.shields.io/github/stars/example/project?style=social)
 
